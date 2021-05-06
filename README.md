@@ -20,8 +20,8 @@
 <a href="https://twitter.com/moertel">
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/moer.tel/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.facebook.com/blinx.dlanor/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ronald-magno-42051780/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
