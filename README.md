@@ -13,20 +13,17 @@
 
 📫 How to reach me?
 
-[![facebook](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@Ronald&color=5b5b5b&labelColor=5b5b5b)](https://www.facebook.com/blinx.dlanor/)
-[![linkedIn](https://img.shields.io/static/v1?style=flat-square&label=v2ex&message=@LinkedIn&color=5b5b5b&labelColor=5b5b5b)](https://www.linkedin.com/in/ronald-magno-42051780/)
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Github&color=5b5b5b&labelColor=5b5b5b)](https://github.com/dlanoronald123)
 
-<a href="https://twitter.com/moertel">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/blinx.dlanor/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ronald-magno-42051780/">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<a href="https://github.com/dlanoronald123">
+  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/blinx.dlanor/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 
 
