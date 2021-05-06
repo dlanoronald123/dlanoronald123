@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**dlanoronald123/dlanoronald123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Software Engineer at Avion School 
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BIO
+🎓 Graduated from Bulacan State University 
+🏢 I'm currently studying Ruby on Rails
+⚙️ I use daily: .html .css .js .rb
+🌍 I'm mostly active within the LinkedIn community
+🌱 Learning all about Open Source
+📫 Reach me: https://www.linkedin.com/in/ronald-magno-42051780/
+⚡️ Fun fact: I'm a huge fan of Spider-Man
