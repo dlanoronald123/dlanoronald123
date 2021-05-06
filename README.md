@@ -11,3 +11,10 @@ BIO
 🌱 Learning all about Open Source
 📫 Reach me: https://www.linkedin.com/in/ronald-magno-42051780/
 ⚡️ Fun fact: I'm a huge fan of Spider-Man
+
+
+🌱 I’m currently learning HTML, CSS, Python, and C++.
+🔭 I’m currently working on creating webpages and learning how to progam.
+😀 I like to crochet, code, read, and draw in my free time.
+💬 Ask me about fountain pens.
+⚡ Fun fact: My first line of code was not "Hello World!"
