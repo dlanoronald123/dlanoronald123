@@ -4,9 +4,8 @@
 #### I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 ##### BIO
-- 🎓 Graduated from Bulacan State University (Bachelor of Science in Information Technology)
 - 🏢 I'm currently studying Ruby on Rails
-- ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.svg`, `.psd`
+- ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the LinkedIn community
 - 🌱 Learning all about Open Source
 - ⚡️ Fun fact: I'm a huge fan of Spider-Man
