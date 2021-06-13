@@ -1,7 +1,7 @@
 ### Hello World 🎊
 
 #### Studying Software Engineer at Avion School 
-#### I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 ##### BIO
 - 🏢 I'm currently studying Ruby on Rails
