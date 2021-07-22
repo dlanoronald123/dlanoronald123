@@ -24,9 +24,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlanoronald123&label=Profile%20views&color=0e75b6&style=flat" alt="dlanoronald123" /> </p>
-
 ### Frontend Tools
 
 <p>
