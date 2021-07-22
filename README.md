@@ -22,7 +22,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 </a>
 <a href="https://www.facebook.com/blinx.dlanor/">
   <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a><br/>
 
 ### Frontend Tools
 
