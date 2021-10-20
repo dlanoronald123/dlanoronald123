@@ -1,10 +1,10 @@
 ### Hello World 🎊
 
-#### Studying Software Engineer at Avion School 
+#### Full Stack Developer at edamama
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 ##### BIO
-- 🏢 I'm currently studying React JS
+- 🏢 I'm currently studying MEAN stack
 - ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.svg`
 - 🌍 I'm mostly active within the LinkedIn community
 - 🌱 Learning all about Open Source
