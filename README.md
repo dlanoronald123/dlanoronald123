@@ -1,6 +1,6 @@
 ### Hello World 🎊
 
-#### Full Stack Developer at edamama
+#### Software Engineer at JoyRide Superapp
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 ##### BIO
