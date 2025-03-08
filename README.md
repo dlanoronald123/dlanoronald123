@@ -5,7 +5,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ##### BIO
 - 🏢 I'm currently using MERN and MEAN stack
-- ⚙️ I use daily: `.rb`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.js`,`.ts`, `.html`, `.css`, `.rb`
 - 🌍 I'm mostly active within the LinkedIn community
 - 🌱 Learning all about Open Source
 - ⚡️ Fun fact: I'm a huge fan of Spider-Man
